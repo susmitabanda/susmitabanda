@@ -4,6 +4,8 @@
 
 <!-------------------------Github Stats------------------------->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susmitabanda&label=Profile%20views&color=0e75b6&style=flat" alt="susmitabanda" /> </p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=susmitabanda&theme=dracula&show_icons=true&locale=en" alt="susmitabanda"/></p>
 
     
@@ -40,19 +42,9 @@ justify-content: center;
 
 <!-------------------------Code Time------------------------->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293%20hunder%20lines%20of%20code-blue)
-<img src="https://komarev.com/ghpvc/?username=susmitabanda&label=Profile%20views&color=0e75b6&style=flat" alt="susmitabanda" /> </p>
-<p align="left"> 
+
 
 <!-------------------------Twitter Handle------------------------->
-<p align ="center" style="
-    width: 100%;
-    text-align: center;
-">
-    <a href="https://twitter.com/susmitabanda" target="blank">
-        <img src="https://img.shields.io/twitter/follow/susmitabanda?logo=twitter&style=for-the-badge" alt="susmitabanda" />
-    </a>
-</p>
+
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankarkoley" alt="priyankarkoley" /></a> </p>
