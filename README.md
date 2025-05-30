@@ -28,11 +28,23 @@ justify-content: center;
 
 <!-------------------------Connect With Me------------------------->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/susmitabanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susmitabanda" height="30" width="40" /></a>
-<a href="https://instagram.com/susmita_banda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susmita_banda" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <h2>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" height="40"> 
+    Let's Connect!
+  </h2>
+</div>
+
+
+<div align=center>
+
+
+<a href="https://www.linkedin.com/in/susmitabanda" alt="susmitabanda | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="mailto:susmitabanda28@gmail.com" alt="susmitabanda | Gmail"><img src="https://img.icons8.com/?size=48&id=qyRpAggnV0zH&format=png&color=000000"></a> &nbsp;
+<a href="https://www.instagram.com/susmita_banda/" alt="susmitabanda | instagram"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"  height="50" width="50"></a> &nbsp;
+
+
+  </div>
 
 <!-------------------------Languages and Tools------------------------->
 
